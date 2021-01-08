@@ -11,3 +11,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+
+
+body{
+    background-image: url("https://www.carglass.es/blog/wp-content/uploads/2019/04/primera-carrera-coches.jpeg");
+    background-size: 100vw;
+}
+
+.cifras
+{
+    background-color:black;
+}
+
+.numeros{
+    color:white;
+      font-size: 10rem;
+    border-block-start-style: solid;
+    width: 15rem;
+    margin-top: 10rem
+}
